@@ -2,7 +2,7 @@ import argparse
 import subprocess
 import re
 # MAC Changer for Kali Linux #
-#You should use sudo for run this file#
+#You should use sudo to run this file#
 
 def args():
     parser = argparse.ArgumentParser(description="Change the MAC address.")
